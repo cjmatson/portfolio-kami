@@ -27,7 +27,7 @@ theme:
   github: cjmatson
   google_plus:
   instagram: 
-  linkedin:  https://www.linkedin.com/pub/c-j-matson/51/966/492 # Full URL
+  linkedin:  https://www.linkedin.com/pub/c-j-matson/51/966/492 
   pinterest:
   reddit:
   soundcloud:
@@ -39,7 +39,7 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-64952935-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
