@@ -1,0 +1,14 @@
+ ---
+ layout: post
+ title: My Bloc Experience
+ --- 
+
+As I started working on my frontend development coursework, I learned quickly that I would be on my own for much of the course. My mentor has been available if I request his assistance, but I only meet with him twice a week. I can't always count on him responding to my emails immediately, especially during nights and weekends. At times, it was frustrating and overwhelming to figure out issues while fending for myself because if they weren't solved, then my progress halted. 
+
+I've taken advantage of my meetings with my mentor. I've consumed valuable knowledge and developed essential skills through his teachings. With that being said, it's only an hour per week. The time allotment for each of the two sessions is 30 minutes, which isn't much. The time commitment necessary to graduate from Bloc Academy is big. But this realization would be a blessing in disguise.
+
+My frontend development course at Bloc has taught me how to be a self-reliant, patient and resourceful worker. Even though I developed these traits in college, web development and programming was a foreign language to me. Besides watching tutorial videos and learning code through Codecademy, I had no prior experience in web development and programming. When I work on assignments and build applications, I refer to work from my curriculum, research pertinent information through search engine optimization (SEO) and apply that attained information and knowledge to my coursework. 
+
+Failures happen. It's OK to fail. In programming, it's completely natural to fail several times before succeeding. I seldom accomplished a programming problem on my first attempt. This understanding has helped me keep my frustration in check when my programming struggles mount. Although my mentor is there when need be, I strive to solve my problems by myself. I strive to solve my problems not only because I want the satisfaction of figuring out my issues, but also because it's my personal responsibility. It's OK to ask for assistance, but it's just as important to develop self-reliance. I can't expect my mentor to do my work for me. It's the same in work and life; you can't expect your bosses and co-workers to solve your work problems, and you can't expect your parents to take care of your personal problems. 
+
+Bloc Academy has taught me more than just how to code and build web applications. Bloc has offered me valuable life skills that'll prepare me for my web development career and for my life. I recommend Bloc Academy to anyone who is considering a career change or who simply wants to grow both professionally and personally. Even though taking a course or courses at Bloc is a major financial investment, it is worth your time and effort. The knowledge and skills established will pay off.

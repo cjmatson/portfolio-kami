@@ -10,8 +10,8 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Frontend Developer</h1>
-     <p>I'm a kickass developer specializing in JavaScript, HTML, CSS, AngularJS, and jQuery.</p>
+     <h1>Aspiring & Budding Frontend Developer</h1>
+     <p>I'm an entry-level frontend developer specializing in JavaScript, HTML, CSS, AngularJS, and jQuery.</p>
   header_text_feature_image: 
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
