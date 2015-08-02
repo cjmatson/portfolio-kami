@@ -17,4 +17,4 @@ C.J. decided to shift his career path to frontend web development. He's currentl
 
 As a frontend web developer, my expertise is JavaScript, HTML, CSS, AngularJS and jQuery.
 
-![Resume]({{ site.baseurl }}/img/resume.pdf)
+
