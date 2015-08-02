@@ -16,3 +16,5 @@ C.J. moved to the Twin Cities of Minnesota in September 2014, which is were he w
 C.J. decided to shift his career path to frontend web development. He's currently enrolled at Bloc Academy, and his expected graduation from Bloc Academy is August 30, 2015. 
 
 As a frontend web developer, my expertise is JavaScript, HTML, CSS, AngularJS and jQuery.
+
+![Resume]({{ site.baseurl }}/documents/resume.pdf)
