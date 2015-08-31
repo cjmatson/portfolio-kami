@@ -20,7 +20,7 @@ The creation of an application doesn't happen overnight. Construction takes time
 
 - Determine the proper amount of time per work session, make sure it counts down to zero and transition to break
 - Determine the proper amount of time per break session and make sure it counts down to zero and transition to work
-- Create a sound that signals switch in sessions.
+- Create a sound that signals switch in sessions
 - Record the number of completed work sessions to create a longer break session
 - Record the tasks and sync them into a database that compiles a task history
 - Show completed tasks on the application 
